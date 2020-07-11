@@ -1,16 +1,7 @@
 # Magic Ball - training ruby project
 
-## Magic 8 ball
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-
 ## General info
-
-[Статья в Википедии](https://ru.wikipedia.org/wiki/Magic_8_ball) ![](./magic8ball.png =100x)
+[Статья в Википедии](https://ru.wikipedia.org/wiki/Magic_8_ball) ![](./magic8ball.png =100x100)
 
 > Magic 8 ball (рус. магический шар 8); также mystic 8 ball, шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, шуточный способ предсказывать будущее.
 	
